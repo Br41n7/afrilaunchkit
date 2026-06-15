@@ -1,0 +1,6 @@
+{
+  "name": "AfriLaunch Kit",
+  "description": "Production-grade SaaS boilerplate for launching fintech, logistics, edtech, and SaaS startups in Africa with plug-and-play integrations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
